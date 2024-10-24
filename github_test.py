@@ -19,6 +19,8 @@ Not one of us is better than another, nor more important than another. Feel free
 Contribute what you can and it will be magnified to an equal portion regardless of initial ability
 
 No matter what, don't dare to devalue your role in this team. If you apply what you can, you will grow exponentially.
+
+You've got this!
 '''
 
 #Bank Account Manager Program Start:
